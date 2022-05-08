@@ -39,7 +39,7 @@ textarea.form-control{
      height: 100%;
      padding: 16px;
      border-radius: 8px 0px 0px 8px;
-      box-shadow: 3px 8px 8px rgba(0, 0, 0, 0.234);
+     box-shadow: 3px 8px 8px rgba(0, 0, 0, 0.234);
       
 }
 #box-2{
@@ -55,14 +55,15 @@ a{
     font-size: small;
 }
 #icons{
-    background: #5ca2ab;
-    border-radius: 100px;
-    padding: 14px;
-    width: 60%;
-    margin: auto;
-    margin-top: 10%;
-    margin-bottom: 10%;
+     background: #5ca2ab;
+     border-radius: 100px;
+     padding: 14px;
+     width: 60%;
+     margin: auto;
+     margin-top: 10%;
+     margin-bottom: 10%;
      box-shadow: 3px 6px 8px 3px rgba(0, 0, 0, 0.307);
+     box-sizing:content-box;
 }
 .erro-input{
     border: 3px solid rgb(231, 73, 73)!important;
